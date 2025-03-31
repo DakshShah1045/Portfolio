@@ -61,7 +61,7 @@
         box-sizing: border-box;
         max-width: 1100px;
         margin: 0 auto;
-        background: #fff;
+        background: #ffffff;
         padding: 60px;
         box-shadow: 0 0 10px rgba(0,0,0,0.1);
         border-radius: 8px;
@@ -974,7 +974,10 @@ section,
   margin-bottom: 20px;
 }
 
-
+.resume{
+ background-color: #ffffff;
+  
+}
 
 .resume .resume-item {
   padding: 0 0 20px 20px;
