@@ -974,6 +974,11 @@ section,
   margin-bottom: 20px;
 }
 
+.resume{
+background : #b59fd1;
+  
+}
+
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
